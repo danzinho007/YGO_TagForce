@@ -1,0 +1,33 @@
+
+
+Leo and Luna
+
+-Jack
+MeninaOculos
+Jaden
+Crow
+
+0-Deck Dragão
+Monstros 7/2/1
+Magias 5
+Armadilhas 4
+1-Aumenta ataque = 1
+2-Buscador = 2
+3-Nega ataque = 1
+
+7Fus-MultiplePieceGolem 2600/1300
+5Efe-BigPieceGolem 2100/0 x2
+4Efe-MediumPieceGolem 1600/0 x2
+2Efe-DreadDragon 1100/400 x2
+4Efe-ViceBerserker 1000/1000
+3Efe-KingOfTheSwamp 500/1100
+1Efe-BattleFader 0/0
+Mag-GiantTrunade
+Mag-BrainControl
+Mag-Polymerization
+Mag-SwordsOfRevealingLight
+MagRpd-MysticalSpaceTyphoon
+Arm-PridefulRoar
+Arm-TorrentialTribute
+ArmCtn-CallOfTheHaunted
+ArmCtn-LimitReverse
